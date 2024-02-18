@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class HelloWorld
+public class Day0
 {
 	public static void main(String[] args) {
 	    
