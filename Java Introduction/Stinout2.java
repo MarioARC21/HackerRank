@@ -1,8 +1,7 @@
 
 import java.util.Scanner;
 
-public class Stinout2 
-{
+public class Stinout2 {
 
     public static void main(String[] args) {
         
